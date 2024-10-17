@@ -1,0 +1,19 @@
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: upper-roman;
+    color: red;
+}
+
+ul ul {
+    list-style-type: circle;
+    color: red;
+}
+
+.list-header, .list-header1 {
+    color: blue !important;
+    font-size: 24px;
+    font-weight: bold;
+}
